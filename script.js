@@ -1,3 +1,5 @@
+
+
 var boxes = document.getElementsByClassName("box");
 var boxLeft = document.getElementsByClassName("box-left");
 var boxRight = document.getElementsByClassName("box-right");
